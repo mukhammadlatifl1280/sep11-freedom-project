@@ -1,11 +1,11 @@
 # SEP11 Freedom Project
-by X
+by Mukhammadlatif Latipov
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about learrning about my tool Firebase to gain knowledge of JavaScript. The purpose of this blog is to create an website of countdown app.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a countdown web browser where you can see it in real time anywhere of how much time left before something like ex: how much minutes, hours, days weeks, months left before you have a trip. . This blog will walk through my process of independently studying Firebase in order to make a countdown app.
 
 ## Links
 
