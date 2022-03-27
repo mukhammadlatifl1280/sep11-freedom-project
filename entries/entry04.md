@@ -7,8 +7,7 @@ As from now on I have managed to create a single user document page as like "reg
 
 In the image below that is my finale code for creating user name and document ID and adding to the firebase.
 
-
-![](/js/sep11-freedom-project/entries/codess.png)
+[Link to the screenshot](https://imgur.com/a/ru8B7CL)
 
 In the chunks of code above, it explains all the details for what each line of the code means. In short, all the chunk of code above is for getting user data which is only their name but as for document ID, the computer generates for them. The main reason why I wanted the computer to generate the ID for the user is because I dont want users to store their password in the Firestore database. However, I could have used Authentication method for users to sign in, but I didn't want to use two methods in once so I decided to use only firestore in my project.
 
