@@ -66,6 +66,15 @@ saveButton.addEventListener("click", function(){
 
 The code above looks very complicated to understand but it is very simple if you take time to understand. From start, I needed to save event name, the user inputted days, months, minutes, hours and minutes. Now you would wonder why would I save that inputed information and not the actual live numbers that is counting down. The main reason why I couldnt save the real live version because the value of the saved code would automatically save the code per second which means it is unnecessary to do and plus you would reach your limit to the firebase use. Then I had a idea where I would want to save the user inputed such as the one like minutes, hours, months etc. If I manage to save that information and display in the HTML then next step would be that whenever the page is loaded, it will click the button that says "Create countdown" and whenever that button is clicked by the computer itself, it will display the live countdown on the HTML.
 
+```js
+var loadPage = setInterval(() => { // whenever page loads, it will click run the saved countdown
+    countdownFunction(); // run the countdown 
+    clearInterval(loadPage);
+}, 500); // per 500 second
+```
+
+The code above shows the part where whenever the page loads, it will run the ```countdownFunction``` per 500 second
+
 Then as we suppose we want to save the information in the firestore, I need to have function where I would want to use ```forEach``` with array that would save the value that was inputed by the user. Then use that array to push it to the HTML with the function ```.push```. Lastly, I would need to get all that information and save it using the ```userDocument``` to set all the info in the firestore, in order to do that I would need to use ```{merge: true}``` which basically does is set with merge will update fields in the document or create it if it doesn't exists.
 
 My main takeaway from this project of MVP was that there were many different ways to solve this problem and we all should go to the one that is simplest way because at the end you would regret that you do it the hardest way and still get the same result. Specifically to the firebase, my first thought was to save the actual data was in the live HTML but then my thought shifted to more simpler way which was to save just the inputted info by user and let the computer click the button for them whenever the page loads and it will automatically displays the countdown.
