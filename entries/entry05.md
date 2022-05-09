@@ -80,10 +80,10 @@ Then as we suppose we want to save the information in the firestore, I need to h
 My main takeaway from this project of MVP was that there were many different ways to solve this problem and we all should go to the one that is simplest way because at the end you would regret that you do it the hardest way and still get the same result. Specifically to the firebase, my first thought was to save the actual data was in the live HTML but then my thought shifted to more simpler way which was to save just the inputted info by user and let the computer click the button for them whenever the page loads and it will automatically displays the countdown.
 
 
-## **EDP**
+## [**EDP**](https://hstatsep.github.io/students/#edp)
 I would say that I am in stage 7 and 8 of [Engineering Design Process](https://docs.google.com/document/d/1anCzhzfZUNXD713Z1PqBDSAO_tU2PbZUpvT6zi3Y0jQ/preview) since I have done all the minimum valuable project and test out all the functions. There are many things to improve in my project such as the design of the website where how it would look on the mobile devices as well as other screen sizes. Also with description of my website where I add all the useful things on what things will be stored and gathered from user. Lastly, I am at the part where I will communicate the result because everything is done and I would need to explain and see what people would think of it.
 
-## **Skills**
+## [**Skills**](https://docs.google.com/document/d/1anCzhzfZUNXD713Z1PqBDSAO_tU2PbZUpvT6zi3Y0jQ/preview#heading=h.uuy2vesiayoa)
 
 This Freedom Project finally led to the development of various new abilities in me. In particular, I've learned a lot about personal organization management. These two abilities are extremely beneficial and necessary. My personal management skills have improved. While working on my task, I learned not to let anything to enter my head. I find that browsing the material or instructions first, then taking a break before returning to it, works best for me. This is quite beneficial to me since it is more reasonable than wasting energy trying to comprehend something that my mind cannot fathom. I've started using comments as notes to help me organize things a lot better than before, and it's helped me a lot.
 
