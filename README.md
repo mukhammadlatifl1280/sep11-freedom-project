@@ -9,9 +9,9 @@ For my project, I am making a countdown web browser where you can see it in real
 
 ## Links
 
-Product
+[Product](https://mukhammadlatifl1280.github.io/fp-countdown/login.html)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1v71nIyltCCsvXGOrSXaXN7Gs5UPbe19UlWMbTh9HTSE/edit)
 
 ## Implications
 X
