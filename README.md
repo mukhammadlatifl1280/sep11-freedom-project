@@ -14,7 +14,7 @@ For my project, I am making a countdown web browser where you can see it in real
 [Presentation](https://docs.google.com/presentation/d/1v71nIyltCCsvXGOrSXaXN7Gs5UPbe19UlWMbTh9HTSE/edit)
 
 ## Implications
-X
+This idea could be used to benefit society as a whole by making it easier to know how much time is remaining before an event. Of course, there are numerous methods to measure time using a calendar app or a clock, but there are numerous ways in which a countdown app could be valuable in our culture, especially as technology advances. There may already be numerous countdown websites online, but I tried to make one myself that could be just as useful and that I could control and tweak whatever I wanted. The advantage would be that I would not have to pay anything because when you download any app, you are asked to pay for a membership or you would be spammed with advertisements.
 
 ---
 
